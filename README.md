@@ -1,0 +1,2 @@
+# Qrcode-Genarate
+scan qrcode
